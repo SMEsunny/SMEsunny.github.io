@@ -1,2 +1,0 @@
-# SMEsunny.github.io
-demo
